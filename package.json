@@ -1,8 +1,9 @@
 {
   "name": "andy-redux",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Custom React Redux",
   "keywords": [
+    "andy",
     "react",
     "reactjs",
     "hot",
@@ -16,8 +17,8 @@
   "license": "MIT",
   "author": "Andy",
   "homepage": "https://github.com/yashiro/andy-redux",
-  "repository": "",
-  "bugs": "",
+  "repository": "https://github.com/yashiro/andy-redux",
+  "bugs": "https://github.com/Yashiro/andy-redux/issues",
   "main": "./lib/index.js",
   "module": "es/index.js",
   "files": [
